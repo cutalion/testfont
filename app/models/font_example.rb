@@ -1,0 +1,2 @@
+class FontExample
+end
